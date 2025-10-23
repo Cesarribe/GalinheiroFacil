@@ -1,0 +1,7 @@
+org\example\controller\AnimalController.class
+org\example\repository\AnimalRepository.class
+org\example\model\Animal.class
+org\example\config\SecurityConfig.class
+org\example\GalinheiroFacilApplication.class
+org\example\config\SwaggerConfig.class
+org\example\service\AnimalService.class
